@@ -32,6 +32,20 @@ I'm **Harshit Sinha**, a student passionate about **Science, Technology, Innovat
 ---
 
 <details>
+<summary><b>🎓 Education</b></summary>
+
+<br>
+
+| Qualification    | Institution                   | Duration                     |
+| ---------------- | ----------------------------- | ---------------------------- |
+| Secondary School | DAV Public School, Samastipur | May 2026 – Expected May 2028 |
+
+</details>
+
+---
+
+
+<details>
 <summary><b>🏅 Olympiads & Academic Competitions</b></summary>
 
 <br>
