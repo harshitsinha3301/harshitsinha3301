@@ -7,10 +7,6 @@ Student • Science Enthusiast • Competitive Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Science+Enthusiast;Olympiad+Participant;Hackathon+Participant;Technology+Learner;Future+Engineer;Continuous+Learner" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshitsinha&abbreviated=true" />
 </p>
 
