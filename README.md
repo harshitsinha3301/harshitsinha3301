@@ -1,16 +1,91 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!--
-**harshitsinha3301/harshitsinha3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Harshit Sinha</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Student • Science Enthusiast • Competitive Learner
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Science+Enthusiast;Olympiad+Participant;Hackathon+Participant;Technology+Learner;Future+Engineer;Continuous+Learner" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshitsinha&abbreviated=true" />
+</p>
+
+---
+
+<details>
+<summary><b>👨‍🎓 About Me</b></summary>
+
+<br>
+
+I'm **Harshit Sinha**, a student passionate about **Science, Technology, Innovation, and Competitive Learning**. I actively participate in olympiads, hackathons, technical competitions, and certification programs to strengthen my knowledge and practical skills.
+
+### 🌟 Interests
+
+* 🔬 Science & Research
+* 💻 Technology & Computing
+* 🚀 Space & Astronomy
+* 🏆 Competitive Examinations
+* 📚 Continuous Learning
+
+</details>
+
+---
+
+<details>
+<summary><b>🏅 Olympiads & Academic Competitions</b></summary>
+
+<br>
+
+| Competition                    | Achievement                                          | Year |
+| ------------------------------ | ---------------------------------------------------- | ---- |
+| Vidyarthi Vigyan Manthan (VVM) | National Level Examination                           | 2025 |
+| National Automotive Olympiad   | National Qualifier (Northeast India Regional Topper) | 2025 |
+
+</details>
+
+---
+
+<details>
+<summary><b>📜 Certifications</b></summary>
+
+<br>
+
+| Certification                             | Organization               | Year |
+| ----------------------------------------- | -------------------------- | ---- |
+| CSS Training                              | IIT Bombay Spoken Tutorial | 2025 |
+| LibreOffice Suite Calc 6.3                | IIT Bombay Spoken Tutorial | 2024 |
+| Emerging Trends in Educational Technology | Government of India        | 2023 |
+| Safe Online Communication                 | Government of India        | 2023 |
+| 21st Century Learning Design              | Microsoft                  | 2023 |
+| Applications of Artificial Intelligence   | Great Learning             | 2023 |
+
+</details>
+
+---
+
+<details>
+<summary><b>🚀 Hackathons & Tournaments</b></summary>
+
+<br>
+
+| Event                         | Organization           | Year |
+| ----------------------------- | ---------------------- | ---- |
+| Hackathon (School)            | Amity University Patna | 2026 |
+| Code-A-Vita Debugging Contest | Amity University Patna | 2026 |
+| NASA Stardance Challenge      | NASA Hack Club         | 2026 |
+
+</details>
+
+---
+
+<div align="center">
+
+### 🌟 Learning • Exploring • Growing
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
